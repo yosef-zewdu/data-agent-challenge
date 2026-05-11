@@ -1,13 +1,13 @@
 {
-  "timestamp": "20260510_104417",
+  "timestamp": "20260510_104421",
   "dataset": "music_brainz_20k",
   "query": "query1",
-  "root_name": "run_1",
+  "root_name": "run_4",
   "is_valid": true,
   "reason": "Ground truth found in LLM output.",
   "llm_answer": "1059.46",
   "ground_truth": "1059.46",
   "terminate_reason": "return_answer",
-  "duration": 13.011838436126709,
-  "iterations": 3
+  "duration": 27.94324779510498,
+  "iterations": 6
 }
