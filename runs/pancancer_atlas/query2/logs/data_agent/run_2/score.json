@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104417",
+  "dataset": "pancancer_atlas",
+  "query": "query2",
+  "root_name": "run_2",
+  "is_valid": true,
+  "reason": "All histological types matched (fuzzy).",
+  "llm_answer": "1. Infiltrating Lobular Carcinoma, 2. Mixed Histology (please specify), 3. Other specify",
+  "ground_truth": "Histological_Type,mutation_count,total,mutation_percentage\nInfiltrating Lobular Carcinoma,74,178,0.4157303370786517\nMixed Histology (please specify),3,24,0.125\nOther  specify,3,36,0.08333333333333333",
+  "terminate_reason": "return_answer",
+  "duration": 43.023751974105835,
+  "iterations": 7
+}
