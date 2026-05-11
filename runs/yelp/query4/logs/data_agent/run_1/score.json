@@ -2,12 +2,12 @@
   "timestamp": "20260510_104417",
   "dataset": "yelp",
   "query": "query4",
-  "root_name": "run_0",
+  "root_name": "run_1",
   "is_valid": false,
-  "reason": "Value '3.63' not found in LLM output.",
-  "llm_answer": "Restaurants, 3.595959595959596",
+  "reason": "Category 'Restaurant' not found in LLM output.",
+  "llm_answer": "Beauty & Spas, 4.0",
   "ground_truth": "Restaurant,3.633676092544987",
   "terminate_reason": "return_answer",
-  "duration": 42.486377477645874,
-  "iterations": 7
+  "duration": 64.04274559020996,
+  "iterations": 11
 }
