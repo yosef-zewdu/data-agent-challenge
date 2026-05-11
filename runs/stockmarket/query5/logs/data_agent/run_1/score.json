@@ -1,13 +1,13 @@
 {
-  "timestamp": "20260420_061304",
+  "timestamp": "20260510_104417",
   "dataset": "stockmarket",
   "query": "query5",
   "root_name": "run_1",
-  "is_valid": false,
-  "reason": "validate.py raised ModuleNotFoundError: No module named 'common_scaffold'",
-  "llm_answer": "Unable to determine answer.",
+  "is_valid": true,
+  "reason": "All names (exact or \u22645 edits) matched.",
+  "llm_answer": "['Synthesis Energy Systems, Inc.', 'TD Holdings, Inc.', 'TMSR Holding Company Limited', 'Verb Technology Company, Inc.', 'Sunesis Pharmaceuticals, Inc.']",
   "ground_truth": "Synthesis Energy Systems, Inc. - Common Stock\nTD Holdings, Inc. - Common Stock\nTMSR Holding Company Limited - Common Stock\nVerb Technology Company, Inc. - Common Stock\nSunesis Pharmaceuticals, Inc. - Common Stock",
-  "terminate_reason": "max_iterations",
-  "duration": 109.2683618068695,
-  "iterations": 30
+  "terminate_reason": "return_answer",
+  "duration": 219.05144143104553,
+  "iterations": 26
 }
