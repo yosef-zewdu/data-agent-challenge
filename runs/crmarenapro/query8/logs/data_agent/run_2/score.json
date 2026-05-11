@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104417",
+  "dataset": "crmarenapro",
+  "query": "query8",
+  "root_name": "run_2",
+  "is_valid": false,
+  "reason": "No agent ID found in LLM output",
+  "llm_answer": "Unable to determine answer.",
+  "ground_truth": "005Wt000003NIliIAG",
+  "terminate_reason": "max_iterations",
+  "duration": 225.8854947090149,
+  "iterations": 30
+}

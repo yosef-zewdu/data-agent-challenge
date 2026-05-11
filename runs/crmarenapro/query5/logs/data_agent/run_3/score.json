@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104419",
+  "dataset": "crmarenapro",
+  "query": "query5",
+  "root_name": "run_3",
+  "is_valid": false,
+  "reason": "Found issue IDs ['a03Wt00000JqmX6IAJ'], but expected 'a03Wt00000JqnHwIAJ'",
+  "llm_answer": "a03Wt00000JqmX6IAJ",
+  "ground_truth": "a03Wt00000JqnHwIAJ",
+  "terminate_reason": "return_answer",
+  "duration": 34.1135196685791,
+  "iterations": 5
+}

@@ -1,13 +1,13 @@
 {
-  "timestamp": "20260420_061304",
+  "timestamp": "20260510_104414",
   "dataset": "crmarenapro",
   "query": "query2",
   "root_name": "run_0",
-  "is_valid": false,
-  "reason": "LLM output indicates no policy violation, but expected knowledge article ID",
-  "llm_answer": "None",
+  "is_valid": true,
+  "reason": "Found expected agent ID: ka0Wt000000Eq0MIAS",
+  "llm_answer": "ka0Wt000000Eq0MIAS",
   "ground_truth": "ka0Wt000000Eq0MIAS",
   "terminate_reason": "return_answer",
-  "duration": 175.33884024620056,
-  "iterations": 37
+  "duration": 54.64469504356384,
+  "iterations": 10
 }
