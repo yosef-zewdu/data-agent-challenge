@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104419",
+  "dataset": "crmarenapro",
+  "query": "query1",
+  "root_name": "run_3",
+  "is_valid": true,
+  "reason": "Found expected BANT factor: Authority",
+  "llm_answer": "Authority",
+  "ground_truth": "Authority",
+  "terminate_reason": "return_answer",
+  "duration": 11.685779571533203,
+  "iterations": 2
+}

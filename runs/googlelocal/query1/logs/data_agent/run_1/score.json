@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104417",
+  "dataset": "googlelocal",
+  "query": "query1",
+  "root_name": "run_1",
+  "is_valid": true,
+  "reason": "All names are present and in correct order.",
+  "llm_answer": "The top 5 businesses located in Los Angeles, California, ranked by highest average rating are:\n1. Widows Peak Salon (4.86)\n2. City Textile (4.50)\n3. Nobel Textile Co (4.29)\n4. San Soo Dang (4.28)\n5. Nova Fabrics (3.33)",
+  "ground_truth": "Widows Peak Salon,4.857142857142857\nCity Textile,4.5\nNobel Textile Co,4.285714285714286\nSan Soo Dang,4.277777777777778\nNova Fabrics,3.3333333333333335",
+  "terminate_reason": "return_answer",
+  "duration": 24.793034076690674,
+  "iterations": 3
+}

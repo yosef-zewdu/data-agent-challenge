@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104421",
+  "dataset": "crmarenapro",
+  "query": "query3",
+  "root_name": "run_4",
+  "is_valid": true,
+  "reason": "Found expected agent ID: Negotiation",
+  "llm_answer": "Negotiation",
+  "ground_truth": "Negotiation",
+  "terminate_reason": "return_answer",
+  "duration": 11.980014085769653,
+  "iterations": 2
+}

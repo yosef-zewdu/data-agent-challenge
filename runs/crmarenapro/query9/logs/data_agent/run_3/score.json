@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104419",
+  "dataset": "crmarenapro",
+  "query": "query9",
+  "root_name": "run_3",
+  "is_valid": true,
+  "reason": "Found expected state: MI",
+  "llm_answer": "MI",
+  "ground_truth": "MI",
+  "terminate_reason": "return_answer",
+  "duration": 18.61862325668335,
+  "iterations": 3
+}

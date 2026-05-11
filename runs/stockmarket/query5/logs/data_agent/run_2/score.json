@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104419",
+  "dataset": "stockmarket",
+  "query": "query5",
+  "root_name": "run_2",
+  "is_valid": true,
+  "reason": "All names (exact or \u22645 edits) matched.",
+  "llm_answer": "Synthesis Energy Systems, Inc., TD Holdings, Inc., TMSR Holding Company Limited, Verb Technology Company, Inc., Sunesis Pharmaceuticals, Inc.",
+  "ground_truth": "Synthesis Energy Systems, Inc. - Common Stock\nTD Holdings, Inc. - Common Stock\nTMSR Holding Company Limited - Common Stock\nVerb Technology Company, Inc. - Common Stock\nSunesis Pharmaceuticals, Inc. - Common Stock",
+  "terminate_reason": "return_answer",
+  "duration": 305.287047624588,
+  "iterations": 27
+}

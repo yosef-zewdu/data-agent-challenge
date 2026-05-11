@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104417",
+  "dataset": "stockindex",
+  "query": "query1",
+  "root_name": "run_2",
+  "is_valid": true,
+  "reason": "Only target '399001.SZ' present, no forbidden values.",
+  "llm_answer": "399001.SZ",
+  "ground_truth": "399001.SZ",
+  "terminate_reason": "return_answer",
+  "duration": 24.994054317474365,
+  "iterations": 4
+}

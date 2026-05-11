@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104414",
+  "dataset": "deps_dev_v1",
+  "query": "query2",
+  "root_name": "run_0",
+  "is_valid": false,
+  "reason": "Missing project name: mui-org/material-ui",
+  "llm_answer": "Unable to determine answer.",
+  "ground_truth": "\ufeffProjectName,Version,ForksCount\nmui-org/material-ui,0.2.0,30522\nmoment/moment,2.22.2,7201\nsemantic-org/semantic-ui,2.2.11,4955\nreact-native-elements/react-native-elements,4.0.2,4623\nsveltejs/svelte,3.25.4,4091",
+  "terminate_reason": "max_iterations",
+  "duration": 183.3869252204895,
+  "iterations": 30
+}

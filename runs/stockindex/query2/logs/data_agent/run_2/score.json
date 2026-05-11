@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104417",
+  "dataset": "stockindex",
+  "query": "query2",
+  "root_name": "run_2",
+  "is_valid": true,
+  "reason": "Only target 'IXIC' present, no forbidden values.",
+  "llm_answer": "IXIC",
+  "ground_truth": "IXIC",
+  "terminate_reason": "return_answer",
+  "duration": 53.767578125,
+  "iterations": 12
+}

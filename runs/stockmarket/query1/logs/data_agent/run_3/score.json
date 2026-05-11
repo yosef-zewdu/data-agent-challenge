@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104419",
+  "dataset": "stockmarket",
+  "query": "query1",
+  "root_name": "run_3",
+  "is_valid": true,
+  "reason": "Found matching number: 18.44 \u2248 18.44",
+  "llm_answer": "18.44",
+  "ground_truth": "18.440000534057617",
+  "terminate_reason": "return_answer",
+  "duration": 25.0558500289917,
+  "iterations": 3
+}

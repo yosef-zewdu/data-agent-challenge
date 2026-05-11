@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104417",
+  "dataset": "agnews",
+  "query": "query3",
+  "root_name": "run_2",
+  "is_valid": false,
+  "reason": "Ground truth numeric value '336.6363636363636' (tol=0.01) not found in LLM output: 247.36",
+  "llm_answer": "247.36",
+  "ground_truth": "336.6363636363636",
+  "terminate_reason": "return_answer",
+  "duration": 49.14096713066101,
+  "iterations": 7
+}

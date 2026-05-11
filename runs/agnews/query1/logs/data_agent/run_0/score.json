@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104414",
+  "dataset": "agnews",
+  "query": "query1",
+  "root_name": "run_0",
+  "is_valid": true,
+  "reason": "Ground truth found in LLM output.",
+  "llm_answer": "The Rundown",
+  "ground_truth": "The Rundown",
+  "terminate_reason": "return_answer",
+  "duration": 60.15918850898743,
+  "iterations": 5
+}

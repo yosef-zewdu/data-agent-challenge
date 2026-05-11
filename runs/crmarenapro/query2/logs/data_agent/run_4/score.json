@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104421",
+  "dataset": "crmarenapro",
+  "query": "query2",
+  "root_name": "run_4",
+  "is_valid": false,
+  "reason": "Found knowledge article IDs ['ka0Wt000000Ens5IAC'], but expected 'ka0Wt000000Eq0MIAS'",
+  "llm_answer": "ka0Wt000000Ens5IAC",
+  "ground_truth": "ka0Wt000000Eq0MIAS",
+  "terminate_reason": "return_answer",
+  "duration": 52.26389956474304,
+  "iterations": 10
+}

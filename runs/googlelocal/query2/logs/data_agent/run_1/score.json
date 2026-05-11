@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104417",
+  "dataset": "googlelocal",
+  "query": "query2",
+  "root_name": "run_1",
+  "is_valid": false,
+  "reason": "Missing name in LLM output: J B Oriental Inc",
+  "llm_answer": "Angel-A Massage: 4.33\nElite Massage: 5.00\nAurora Massage: 4.18",
+  "ground_truth": "Elite Massage,5.0\nAngel-A Massage,4.333333333333333\nAurora Massage,4.178571428571429\nJ B Oriental Inc,4.166666666666667",
+  "terminate_reason": "return_answer",
+  "duration": 55.86303210258484,
+  "iterations": 9
+}

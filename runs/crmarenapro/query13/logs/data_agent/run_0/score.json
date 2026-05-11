@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104414",
+  "dataset": "crmarenapro",
+  "query": "query13",
+  "root_name": "run_0",
+  "is_valid": true,
+  "reason": "Found expected agent ID: 005Wt000003NIXCIA4",
+  "llm_answer": "005Wt000003NIXCIA4",
+  "ground_truth": "005Wt000003NIXCIA4",
+  "terminate_reason": "return_answer",
+  "duration": 40.75374460220337,
+  "iterations": 6
+}

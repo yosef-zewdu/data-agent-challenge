@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104421",
+  "dataset": "stockmarket",
+  "query": "query3",
+  "root_name": "run_3",
+  "is_valid": false,
+  "reason": "Name not found within 5 edits: 'Sypris Solutions, Inc', closest: 'zhone solutions, inc' (distance=6)",
+  "llm_answer": "['Apex Global Brands Inc.: 23781.42', 'BIO-key International, Inc.: 10988.14', 'CBAK Energy Technology, Inc.: 86223.32', 'China Ceramics Co., Ltd.: 4366.80', 'Correvio Pharma Corp.: 145247.83', 'CounterPath Corporation: 375.49', 'DASAN Zhone Solutions, Inc.: 15578.66', 'Future FinTech Group Inc.: 9.85', 'Frontier Communications Corporation: 254397.63', 'Ideanomics, Inc.: 10.28', 'Ocean Power Technologies, Inc.: 254.15', 'Pacific Ethanol, Inc.: 10706.72', 'Synthesis Energy Systems, Inc.: 2390.51', 'Sunesis Pharmaceuticals, Inc.: 781.82']",
+  "ground_truth": "Apex Global Brands Inc,23781.42\nBIO-key International, Inc,10988.14\nCBAK Energy Technology, Inc,86223.32\nChina Ceramics Co, Ltd,4366.80\nCorrevio Pharma Corp,145247.83\nCounterPath Corporation,375.49\nDASAN Zhone Solutions, Inc,15578.66\nFuture FinTech Group Inc,9.85\nFrontier Communications Corporation,254397.63\nIdeanomics, Inc,10.28\nOcean Power Technologies, Inc,254.15\nPacific Ethanol, Inc,10706.72\nSynthesis Energy Systems, Inc,2390.51\nSunesis Pharmaceuticals, Inc,781.82\nSypris Solutions, Inc,36836.36",
+  "terminate_reason": "return_answer",
+  "duration": 184.69179558753967,
+  "iterations": 29
+}

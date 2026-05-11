@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104417",
+  "dataset": "stockmarket",
+  "query": "query3",
+  "root_name": "run_1",
+  "is_valid": false,
+  "reason": "Number near 'Apex Global Brands Inc' does not match rounded 23781",
+  "llm_answer": "The NASDAQ-listed companies that were financially troubled and had trading volume in 2008, along with their average daily trading volume in 2008, are:\n\n- Apex Global Brands Inc.: 23,781.42\n- BIO-key International, Inc.: 10,988.14\n- CBAK Energy Technology, Inc.: 86,223.32\n- China Ceramics Co., Ltd.: 4,366.80\n- Correvio Pharma Corp., based in Canada,: 145,247.83\n- CounterPath Corporation: 375.49\n- DASAN Zhone Solutions, Inc.: 15,578.66\n- Future FinTech Group Inc.: 9.85\n- Frontier Communications Corporation: 254,397.63\n- Ideanomics, Inc.: 10.28\n- Ocean Power Technologies, Inc.: 254.15\n- Pacific Ethanol, Inc.: 10,706.72\n- Synthesis Energy Systems, Inc.: 2,390.51",
+  "ground_truth": "Apex Global Brands Inc,23781.42\nBIO-key International, Inc,10988.14\nCBAK Energy Technology, Inc,86223.32\nChina Ceramics Co, Ltd,4366.80\nCorrevio Pharma Corp,145247.83\nCounterPath Corporation,375.49\nDASAN Zhone Solutions, Inc,15578.66\nFuture FinTech Group Inc,9.85\nFrontier Communications Corporation,254397.63\nIdeanomics, Inc,10.28\nOcean Power Technologies, Inc,254.15\nPacific Ethanol, Inc,10706.72\nSynthesis Energy Systems, Inc,2390.51\nSunesis Pharmaceuticals, Inc,781.82\nSypris Solutions, Inc,36836.36",
+  "terminate_reason": "return_answer",
+  "duration": 51.2863495349884,
+  "iterations": 6
+}

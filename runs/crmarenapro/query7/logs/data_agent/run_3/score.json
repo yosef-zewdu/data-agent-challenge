@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104419",
+  "dataset": "crmarenapro",
+  "query": "query7",
+  "root_name": "run_3",
+  "is_valid": false,
+  "reason": "No knowledge article ID found in LLM output",
+  "llm_answer": "Unable to determine answer.",
+  "ground_truth": "ka0Wt000000EoD3IAK",
+  "terminate_reason": "max_iterations",
+  "duration": 219.72830891609192,
+  "iterations": 30
+}

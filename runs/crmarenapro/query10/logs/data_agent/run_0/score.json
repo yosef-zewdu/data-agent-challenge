@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104414",
+  "dataset": "crmarenapro",
+  "query": "query10",
+  "root_name": "run_0",
+  "is_valid": false,
+  "reason": "Found agent IDs ['005Wt000003NIddIAG'], but expected '005Wt000003NDqDIAW'",
+  "llm_answer": "005Wt000003NIddIAG",
+  "ground_truth": "005Wt000003NDqDIAW",
+  "terminate_reason": "return_answer",
+  "duration": 105.67082571983337,
+  "iterations": 17
+}
