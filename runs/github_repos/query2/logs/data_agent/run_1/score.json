@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260510_104417",
+  "dataset": "github_repos",
+  "query": "query2",
+  "root_name": "run_1",
+  "is_valid": false,
+  "reason": "No fuzzy match found for 'swiftandroid/swift' within 3-character distance",
+  "llm_answer": "uacaps/PageMenu",
+  "ground_truth": "repo_name\nSwiftAndroid/swift",
+  "terminate_reason": "return_answer",
+  "duration": 91.79853177070618,
+  "iterations": 15
+}
